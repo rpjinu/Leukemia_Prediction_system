@@ -72,7 +72,7 @@ python -m streamlit run leukemia_app.py
 
 **predict  image**
 
-<img src="">
+<img src="https://github.com/rpjinu/Leukemia_Prediction_system/blob/main/predict_img.png">
 
 ## 📜 License
 This project is licensed under the **MIT License**.
