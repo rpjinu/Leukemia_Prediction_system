@@ -51,7 +51,7 @@ The **Leukemia Prediction System** is an end-to-end machine learning project tha
 ## 🛠️ Installation & Usage
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/Leukemia-Prediction-System.git
+git clone https://github.com/rpjinu/Leukemia-Prediction-System.git
 cd Leukemia-Prediction-System
 ```
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Streamlit App
 ```bash
-streamlit run leukemia_app.py
+python -m streamlit run leukemia_app.py
 ```
 
 ## 🚀 Demo
