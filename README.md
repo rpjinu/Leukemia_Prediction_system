@@ -66,11 +66,11 @@ python -m streamlit run leukemia_app.py
 ```
 
 ## 🚀 Demo Deploy image
-🔗 **live**
+🔗 **live Deploy**
 
-<img src="">
+<img src="https://github.com/rpjinu/Leukemia_Prediction_system/blob/main/leucumia_deploy.jpg">
 
-**predict deploy image**
+**predict  image**
 
 <img src="">
 
