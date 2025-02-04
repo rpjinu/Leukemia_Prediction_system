@@ -65,8 +65,14 @@ pip install -r requirements.txt
 python -m streamlit run leukemia_app.py
 ```
 
-## 🚀 Demo
-🔗 **Live Demo:** [Coming Soon]
+## 🚀 Demo Deploy image
+🔗 **live**
+
+<img src="">
+
+**predict deploy image**
+
+<img src="">
 
 ## 📜 License
 This project is licensed under the **MIT License**.
